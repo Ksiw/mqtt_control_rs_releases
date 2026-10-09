@@ -1,7 +1,7 @@
 {
   "name": "mqtt-control-rs",
   "version": "0.7.1",
-  "published_at": "2026-10-09T20:01:17Z",
+  "published_at": "2026-10-09T20:24:00Z",
   "downloads": {
     "windows": {
       "filename": "mqtt-control-rs-0.7.1-x86_64-setup.exe",
@@ -30,3 +30,4 @@
     }
   }
 }
+
