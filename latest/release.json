@@ -1,11 +1,11 @@
 {
   "name": "mqtt-control-rs",
   "version": "0.7.1",
-  "published_at": "2026-10-09T08:31:59Z",
+  "published_at": "2026-10-09T10:29:44Z",
   "downloads": {
     "windows": {
       "filename": "mqtt-control-rs-0.7.1-x86_64.msi",
-      "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-x86_64.msi",
+      "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-x86_64.msi?repack=2",
       "size": 24795136
     },
     "debian": {
