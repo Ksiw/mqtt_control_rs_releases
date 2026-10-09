@@ -1,32 +1,32 @@
 {
   "name": "mqtt-control-rs",
   "version": "0.7.1",
-  "published_at": "2026-10-09T10:29:44Z",
+  "published_at": "2026-10-09T15:20:25Z",
   "downloads": {
     "windows": {
-      "filename": "mqtt-control-rs-0.7.1-x86_64.msi",
-      "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-x86_64.msi?repack=2",
-      "size": 24795136
+      "filename": "mqtt-control-rs-0.7.1-x86_64-setup.exe",
+      "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-x86_64-setup.exe",
+      "size": 23622469
     },
     "debian": {
       "filename": "mqtt-control-rs_0.7.1_amd64.deb",
       "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs_0.7.1_amd64.deb",
-      "size": 21326688
+      "size": 21326676
     },
     "armbian": {
       "filename": "mqtt-control-rs_0.7.1_arm64.deb",
       "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs_0.7.1_arm64.deb",
-      "size": 19053448
+      "size": 19053422
     },
     "fedora": {
       "filename": "mqtt-control-rs-0.7.1-1.x86_64.rpm",
       "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-1.x86_64.rpm",
-      "size": 26853645
+      "size": 26853648
     },
     "arch": {
       "filename": "mqtt-control-rs-0.7.1-1-x86_64.pkg.tar.zst",
       "url": "https://raw.githubusercontent.com/Ksiw/mqtt_control_rs_releases/main/latest/mqtt-control-rs-0.7.1-1-x86_64.pkg.tar.zst",
-      "size": 21323592
+      "size": 21323662
     }
   }
 }
